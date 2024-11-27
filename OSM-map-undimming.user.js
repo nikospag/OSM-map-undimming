@@ -1,13 +1,11 @@
 // ==UserScript==
 // @name         Remove map dimming in dark mode for OpenStreetMap
-// @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Remove map dimming in dark mode for OpenStreetMap
 // @author       nikospag
 // @match        https://www.openstreetmap.org/*
 // @grant        GM_addStyle
 // ==/UserScript==
-
 
 GM_addStyle(`
     @media(prefers-color-scheme: dark) {

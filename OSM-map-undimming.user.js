@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Remove map dimming in dark mode for OpenStreetMap
+// @name         OSM-map-undimming
 // @version      1.0
 // @description  Remove map dimming in dark mode for OpenStreetMap
 // @author       nikospag
